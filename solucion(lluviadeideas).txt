@@ -1,0 +1,5 @@
+Solucion:
+
+primero solicitar los 4 numeros.
+Luego comprobar que los numeros cumplen con las caracteristicas del ejercicio (En dado caso no se cumplan con las caracteristicas del ejercicio reiniciar todo el proceso).
+Luego comparar los numeros para ver quien es el menor y quien es el mayor.
